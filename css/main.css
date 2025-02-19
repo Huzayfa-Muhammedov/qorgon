@@ -12082,4 +12082,9 @@ textarea.form-control-lg {
     position: absolute;
     top: 450px;
   }
+  .text-ten {
+    color: white;
+    -moz-text-align-last: none;
+         text-align-last: none;
+  }
 }/*# sourceMappingURL=main.css.map */
