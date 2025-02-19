@@ -167,6 +167,15 @@ $primary: #E1AF93;
   }
 }
 
+
+@media only screen and (min-width: 310px) {
+  .offcanvas-title {
+    margin-left: 90px;
+    margin-top: -10px;
+  }
+}
+
+
 @media only screen and (min-width: 350px) {
   .offcanvas-title {
     margin-left: 100px;
