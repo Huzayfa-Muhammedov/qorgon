@@ -159,3 +159,40 @@ $primary: #E1AF93;
     text-decoration-line: none;
   }
 }
+
+@media only screen and (min-width: 300px) {
+  .offcanvas-title {
+    margin-left: 80px;
+    margin-top: -10px;
+  }
+}
+
+@media only screen and (min-width: 350px) {
+  .offcanvas-title {
+    margin-left: 100px;
+    margin-top: -10px;
+  }
+}
+
+@media only screen and (min-width: 360px) {
+  .offcanvas-title {
+    margin-left: 120px;
+    margin-top: -10px;
+  }
+}
+
+
+@media only screen and (min-width: 390px) {
+  .offcanvas-title {
+    margin-left: 130px;
+    margin-top: -10px;
+  }
+}
+
+
+@media only screen and (min-width: 400px) {
+  .offcanvas-title {
+    margin-left: 130px;
+    margin-top: -10px;
+  }
+}
