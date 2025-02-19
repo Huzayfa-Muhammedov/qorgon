@@ -12084,7 +12084,6 @@ textarea.form-control-lg {
   }
   .text-ten {
     color: white;
-    -moz-text-align-last: none;
-         text-align-last: none;
+    text-decoration-line: none;
   }
 }/*# sourceMappingURL=main.css.map */
