@@ -11966,6 +11966,10 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 280px) {
+  .btn-one {
+    width: 260px;
+    color: black;
+  }
   .navbar-brand {
     margin-left: 25px;
   }
