@@ -12015,7 +12015,7 @@ textarea.form-control-lg {
     justify-content: center;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    width: 280px;
+    width: 290px;
     margin-left: -12px;
   }
   .box-elewen {
@@ -12156,7 +12156,7 @@ textarea.form-control-lg {
     text-decoration-line: none;
   }
 }
-@media only screen and (min-width: 280px) {
+@media only screen and (min-width: 290px) {
   .site-main {
     width: -moz-max-content;
     width: max-content;
@@ -12173,13 +12173,13 @@ textarea.form-control-lg {
     position: absolute;
     top: 100px;
     background-color: white;
-    margin-left: 15px;
+    margin-left: 10px;
     border-radius: 10px;
   }
   .btn-one {
     position: absolute;
     top: 13px;
-    margin-left: 25px;
+    margin-left: 15px;
     text-decoration-line: none;
     color: #333;
   }
@@ -12205,13 +12205,13 @@ textarea.form-control-lg {
     position: absolute;
     top: 100px;
     background-color: white;
-    margin-left: 15px;
+    margin-left: 10px;
     border-radius: 10px;
   }
   .btn-one {
     position: absolute;
     top: 13px;
-    margin-left: 25px;
+    margin-left: 15px;
     text-decoration-line: none;
     color: #333;
   }
