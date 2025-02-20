@@ -11,6 +11,82 @@ $primary: #E1AF93;
 
 @media only screen and (min-width: 280px) {
 
+  .two-header {
+    width: max-content;
+    width: 290px;
+    height: 70px;
+    padding: 8px;
+    background-color: rgba(6, 87, 4, 0.815);
+    margin-left: -12px;
+  }
+
+  .two-main {
+    width: 290px;
+    height: 1000px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+    display: block;
+  }
+
+  .text-logo {
+    position: absolute;
+    top: 100px;
+    margin-left: 15px;
+    text-align: center;
+    color: rgb(196, 4, 4);
+  }
+
+  .p-one {
+    color: rgb(196, 4, 4);
+    text-align: center;
+    position: absolute;
+    margin-left: 15px;
+    top: 200px;
+  }
+
+  .qaytish {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 12px;
+    margin-left: -5px;
+  }
+
+  .logo {
+    color: white;
+    font-size: 20px;
+    margin-left: 35px;
+    margin-top: -18px;
+  }
+
+  .site-main {
+    width: max-content;
+    justify-content: center;
+    height: 1000px;
+    background-color: rgba(7, 104, 4, 0.815);
+    width: 280px;
+    margin-left: -12px;
+  }
+
+  .box-elewen {
+    width: 250px;
+    padding: 8px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    background-color: white;
+    margin-left: 15px;
+    border-radius: 10px;
+  }
+
+  .btn-one {
+    position: absolute;
+    top: 13px;
+    margin-left: 15px;
+    text-decoration-line: none;
+    color: #333;
+  }
+
   .navbar-brand {
     margin-left: 25px;
   }
@@ -159,11 +235,72 @@ $primary: #E1AF93;
   }
 }
 
+
+@media only screen and (min-width: 280px) {
+  .site-main {
+    width: max-content;
+    justify-content: center;
+    height: 1000px;
+    background-color: rgba(7, 104, 4, 0.815);
+    width: 300px;
+    margin-left: -12px;
+  }
+
+  .box-elewen {
+    width: 270px;
+    padding: 8px;
+    height: 50px;
+    position: absolute;
+    top: 100px;
+    background-color: white;
+    margin-left: 15px;
+    border-radius: 10px;
+  }
+
+  .btn-one {
+    position: absolute;
+    top: 13px;
+    margin-left: 25px;
+    text-decoration-line: none;
+    color: #333;
+  }  
+}
+
+
+
 @media only screen and (min-width: 300px) {
   .offcanvas-title {
     margin-left: 80px;
     margin-top: -10px;
   }
+
+  .site-main {
+    width: max-content;
+    justify-content: center;
+    height: 1000px;
+    background-color: rgba(7, 104, 4, 0.815);
+    width: 300px;
+    margin-left: -12px;
+  }
+
+  .box-elewen {
+    width: 270px;
+    padding: 8px;
+    height: 50px;
+    position: absolute;
+    top: 100px;
+    background-color: white;
+    margin-left: 15px;
+    border-radius: 10px;
+  }
+
+  .btn-one {
+    position: absolute;
+    top: 13px;
+    margin-left: 25px;
+    text-decoration-line: none;
+    color: #333;
+  }  
 }
 
 
