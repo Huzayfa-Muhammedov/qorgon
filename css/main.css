@@ -11984,7 +11984,7 @@ textarea.form-control-lg {
   }
   .two-main {
     width: 290px;
-    height: 3000px;
+    height: 2390px;
     background-color: rgba(7, 104, 4, 0.815);
     margin-left: -12px;
     display: block;
@@ -12375,6 +12375,23 @@ textarea.form-control-lg {
   }
   .two-main {
     width: 380px;
+  }
+}
+@media only screen and (min-width: 380px) {
+  .container {
+    width: 390px;
+  }
+  .site-main {
+    width: 390px;
+  }
+  .two-header {
+    width: 390px;
+  }
+  .two-main {
+    width: 390px;
+  }
+  .box-elewen {
+    margin-left: 45px;
   }
 }
 @media only screen and (min-width: 390px) {
