@@ -12207,10 +12207,10 @@ textarea.form-control-lg {
 }
 @media only screen and (min-width: 300px) {
   .two-header {
-    width: 300px;
+    width: 310px;
   }
   .two-main {
-    width: 300px;
+    width: 310px;
   }
   .offcanvas-title {
     margin-left: 80px;
@@ -12222,7 +12222,7 @@ textarea.form-control-lg {
     justify-content: center;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    width: 301px;
+    width: 310px;
     margin-left: -12px;
   }
   .box-elewen {
@@ -12249,13 +12249,13 @@ textarea.form-control-lg {
     margin-top: -10px;
   }
   .site-main {
-    width: 312px;
+    width: 320px;
   }
   .box-elewen {
     margin-left: 20px;
   }
   .two-header {
-    width: 312px;
+    width: 320px;
   }
   .box-twelve {
     margin-left: 5px;
@@ -12264,27 +12264,7 @@ textarea.form-control-lg {
     margin-left: 10px;
   }
   .two-main {
-    width: 312px;
-  }
-}
-@media only screen and (min-width: 310px) {
-  .site-main {
     width: 320px;
-  }
-  .box-elewen {
-    margin-left: 22px;
-  }
-  .two-header {
-    width: 320px;
-  }
-  .two-main {
-    width: 320px;
-  }
-  .box-header {
-    margin-left: 20px;
-  }
-  .box-twelve {
-    margin-left: 10px;
   }
 }
 @media only screen and (min-width: 320px) {
@@ -12302,6 +12282,23 @@ textarea.form-control-lg {
   }
   .box-twelve {
     margin-left: 15px;
+  }
+  .box-header {
+    margin-left: 25px;
+  }
+}
+@media only screen and (min-width: 330px) {
+  .site-main {
+    width: 340px;
+  }
+  .two-header {
+    width: 340px;
+  }
+  .two-main {
+    width: 340px;
+  }
+  .box-elewen {
+    margin-left: 27px;
   }
   .box-header {
     margin-left: 25px;

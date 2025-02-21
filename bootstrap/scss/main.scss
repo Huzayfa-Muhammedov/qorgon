@@ -298,11 +298,11 @@ $primary: #E1AF93;
 @media only screen and (min-width: 300px) {
 
   .two-header {
-    width: 300px;
+    width: 310px;
   }
 
   .two-main {
-    width: 300px;
+    width: 310px;
   }
 
   .offcanvas-title {
@@ -315,7 +315,7 @@ $primary: #E1AF93;
     justify-content: center;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    width: 301px;
+    width: 310px;
     margin-left: -12px;
   }
 
@@ -347,7 +347,7 @@ $primary: #E1AF93;
   }
 
   .site-main {
-    width: 312px;
+    width: 320px;
   }
 
   .box-elewen {
@@ -355,7 +355,7 @@ $primary: #E1AF93;
   }
   
   .two-header {
-    width: 312px;
+    width: 320px;
   }
 
   .box-twelve {
@@ -367,36 +367,36 @@ $primary: #E1AF93;
   }
 
   .two-main {
-    width: 312px;
+    width: 320px;
   }
 }
 
 
-@media only screen and (min-width: 310px) {
-  .site-main {
-    width: 320px;
-  }
+// @media only screen and (min-width: 310px) {
+//   .site-main {
+//     width: 310px;
+//   }
   
-  .box-elewen {
-    margin-left: 22px;
-  }
+//   .box-elewen {
+//     margin-left: 22px;
+//   }
 
-  .two-header {
-    width: 320px;
-  }
+//   .two-header {
+//     width: 310px;
+//   }
 
-  .two-main {
-    width: 320px;
-  }
+//   .two-main {
+//     width: 310px;
+//   }
 
-  .box-header {
-    margin-left: 20px;
-  }
+//   .box-header {
+//     margin-left: 20px;
+//   }
 
-  .box-twelve {
-    margin-left: 10px;
-  }
-}
+//   .box-twelve {
+//     margin-left: 10px;
+//   }
+// }
 
 
 @media only screen and (min-width: 320px) {
@@ -423,6 +423,29 @@ $primary: #E1AF93;
   .box-header {
     margin-left: 25px;
   }
+}
+
+
+@media only screen and (min-width: 330px) {
+  .site-main {
+    width: 340px;
+  }
+
+  .two-header {
+    width: 340px;
+  }
+
+  .two-main {
+    width: 340px;
+  }
+
+  .box-elewen {
+    margin-left: 27px;
+  }
+
+  .box-header {
+    margin-left: 25px;
+  } 
 }
 
 
