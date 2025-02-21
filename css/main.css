@@ -12015,17 +12015,18 @@ textarea.form-control-lg {
     justify-content: center;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    width: 290px;
+    width: 300px;
     margin-left: -12px;
   }
   .box-elewen {
+    margin-top: -50px;
     width: 250px;
     padding: 8px;
     height: 50px;
     position: absolute;
     top: 150px;
     background-color: white;
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 10px;
   }
   .btn-one {
@@ -12157,6 +12158,12 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 290px) {
+  .two-header {
+    width: 299px;
+  }
+  .two-main {
+    width: 299px;
+  }
   .site-main {
     width: -moz-max-content;
     width: max-content;
@@ -12171,10 +12178,17 @@ textarea.form-control-lg {
     padding: 8px;
     height: 50px;
     position: absolute;
-    top: 100px;
+    margin-top: -50px;
     background-color: white;
-    margin-left: 10px;
+    margin-left: 15px;
     border-radius: 10px;
+  }
+  .text-logo {
+    margin-left: 25px;
+  }
+  .p-one {
+    margin-left: 25px;
+    margin-top: 10px;
   }
   .btn-one {
     position: absolute;
@@ -12185,6 +12199,12 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 300px) {
+  .two-header {
+    width: 300px;
+  }
+  .two-main {
+    width: 300px;
+  }
   .offcanvas-title {
     margin-left: 80px;
     margin-top: -10px;
@@ -12195,7 +12215,7 @@ textarea.form-control-lg {
     justify-content: center;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    width: 300px;
+    width: 301px;
     margin-left: -12px;
   }
   .box-elewen {
@@ -12203,9 +12223,9 @@ textarea.form-control-lg {
     padding: 8px;
     height: 50px;
     position: absolute;
-    top: 100px;
+    margin-top: -50px;
     background-color: white;
-    margin-left: 10px;
+    margin-left: 15px;
     border-radius: 10px;
   }
   .btn-one {
@@ -12221,17 +12241,122 @@ textarea.form-control-lg {
     margin-left: 90px;
     margin-top: -10px;
   }
+  .site-main {
+    width: 310px;
+  }
+  .box-elewen {
+    margin-left: 20px;
+  }
+  .two-header {
+    width: 310px;
+  }
+  .box-twelve {
+    margin-left: 5px;
+  }
+  .box-header {
+    margin-left: 10px;
+  }
+  .two-main {
+    width: 310px;
+  }
+}
+@media only screen and (min-width: 310px) {
+  .site-main {
+    width: 320px;
+  }
+  .box-elewen {
+    margin-left: 22px;
+  }
+  .two-header {
+    width: 320px;
+  }
+  .two-main {
+    width: 320px;
+  }
+  .box-header {
+    margin-left: 20px;
+  }
+  .box-twelve {
+    margin-left: 10px;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .site-main {
+    width: 330px;
+  }
+  .two-header {
+    width: 330px;
+  }
+  .two-main {
+    width: 330px;
+  }
+  .box-elewen {
+    margin-left: 27px;
+  }
+  .box-twelve {
+    margin-left: 15px;
+  }
+  .box-header {
+    margin-left: 25px;
+  }
+}
+@media only screen and (min-width: 340px) {
+  .site-main {
+    width: 350px;
+  }
+  .two-header {
+    width: 350px;
+  }
+  .two-main {
+    width: 350px;
+  }
+  .box-elewen {
+    margin-left: 40px;
+  }
+  .box-twelve {
+    margin-left: 25px;
+  }
+  .box-header {
+    margin-left: 35px;
+  }
 }
 @media only screen and (min-width: 350px) {
   .offcanvas-title {
     margin-left: 100px;
     margin-top: -10px;
   }
+  .site-main {
+    width: 360px;
+  }
+  .box-elewen {
+    margin-left: 45px;
+  }
 }
 @media only screen and (min-width: 360px) {
   .offcanvas-title {
     margin-left: 120px;
     margin-top: -10px;
+  }
+  .site-main {
+    width: 370px;
+  }
+  .two-header {
+    width: 370px;
+  }
+  .two-main {
+    width: 370px;
+  }
+  .box-elewen {
+    width: 290px;
+    padding: 12px;
+    height: 60px;
+    align-items: center;
+    margin-left: 40px;
+  }
+  .btn-one {
+    font-size: 19px;
+    margin-right: 15px;
+    margin-top: 2px;
   }
 }
 @media only screen and (min-width: 390px) {
