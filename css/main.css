@@ -11966,6 +11966,13 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 280px) {
+  .p-two {
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+    position: absolute;
+    top: 300px;
+  }
   .two-header {
     width: -moz-max-content;
     width: max-content;
@@ -11977,7 +11984,7 @@ textarea.form-control-lg {
   }
   .two-main {
     width: 290px;
-    height: 1000px;
+    height: 3000px;
     background-color: rgba(7, 104, 4, 0.815);
     margin-left: -12px;
     display: block;
