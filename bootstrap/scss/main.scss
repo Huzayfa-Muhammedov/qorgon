@@ -502,6 +502,21 @@ $primary: #E1AF93;
 }
 
 
+@media only screen and (min-width: 370px) {
+  .site-main {
+    width: 380px;
+  }
+
+  .two-header {
+    width: 380px;
+  }
+
+  .two-main {
+    width: 380px;
+  }
+}
+
+
 @media only screen and (min-width: 390px) {
   .offcanvas-title {
     margin-left: 130px;
