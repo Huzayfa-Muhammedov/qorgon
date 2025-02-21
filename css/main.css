@@ -11984,7 +11984,7 @@ textarea.form-control-lg {
   }
   .two-main {
     width: 290px;
-    height: 2390px;
+    height: 2200px;
     background-color: rgba(7, 104, 4, 0.815);
     margin-left: -12px;
     display: block;
@@ -12399,10 +12399,40 @@ textarea.form-control-lg {
     margin-left: 130px;
     margin-top: -10px;
   }
+  .site-main {
+    width: 400px;
+  }
+  .two-main {
+    width: 400px;
+  }
+  .two-header {
+    width: 400px;
+  }
+  .box-twelve {
+    margin-left: 45px;
+  }
 }
 @media only screen and (min-width: 400px) {
   .offcanvas-title {
     margin-left: 130px;
     margin-top: -10px;
+  }
+  .site-main {
+    width: 424px;
+    margin-left: -30px;
+  }
+  .two-header {
+    width: 430px;
+    margin-left: -30px;
+  }
+  .two-main {
+    margin-left: -30px;
+    width: 430px;
+  }
+  .box-twelve {
+    margin-left: 50px;
+  }
+  .box-elewen {
+    margin-left: 65px;
   }
 }/*# sourceMappingURL=main.css.map */
