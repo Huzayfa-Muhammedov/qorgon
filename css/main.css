@@ -11966,6 +11966,107 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 280px) {
+  .text-twentyone {
+    position: absolute;
+    top: 350px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 250px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 270px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 250px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 250px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 250px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 290px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
+  .text-seventeen {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 5px;
+  }
+  .box-sixteen {
+    position: absolute;
+    top: 595px;
+    margin-left: 17px;
+  }
+  .text-sixteen {
+    color: white;
+    text-decoration-line: none;
+  }
+  .box-fifteen {
+    position: absolute;
+    top: 560px;
+    margin-left: 17px;
+  }
+  .text-fifteen {
+    color: white;
+    text-decoration-line: none;
+  }
+  .box-fourteen {
+    position: absolute;
+    top: 525px;
+    margin-left: 17px;
+  }
+  .text-fourteen {
+    color: white;
+    text-decoration-line: none;
+  }
+  .box-thirteen {
+    position: absolute;
+    top: 490px;
+    margin-left: 17px;
+  }
+  .text-thirteen {
+    color: white;
+    text-decoration-line: none;
+  }
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 80px;
+    font-size: 20px;
+  }
   .p-two {
     color: white;
     font-size: 15px;
@@ -11984,7 +12085,7 @@ textarea.form-control-lg {
   }
   .two-main {
     width: 290px;
-    height: 2390px;
+    height: 3070px;
     background-color: rgba(7, 104, 4, 0.815);
     margin-left: -12px;
     display: block;
@@ -12165,6 +12266,60 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 290px) {
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 260px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 260px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 260px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 260px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 300px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .two-header {
     width: 299px;
   }
@@ -12206,6 +12361,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 300px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 85px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 320px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .two-header {
     width: 310px;
   }
@@ -12244,6 +12459,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 310px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 85px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 280px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 320px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .offcanvas-title {
     margin-left: 90px;
     margin-top: -10px;
@@ -12268,6 +12543,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 320px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 85px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 290px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 290px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 290px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 290px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 330px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .site-main {
     width: 330px;
   }
@@ -12288,6 +12623,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 330px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 85px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 300px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 300px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 300px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 300px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 340px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .site-main {
     width: 340px;
   }
@@ -12305,6 +12700,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 340px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 85px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 310px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 310px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 310px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 310px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 350px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .site-main {
     width: 350px;
   }
@@ -12325,6 +12780,72 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 350px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 100px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 320px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 320px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 320px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 320px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 360px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
+  .two-header {
+    width: 360px;
+  }
+  .two-main {
+    width: 360px;
+  }
   .offcanvas-title {
     margin-left: 100px;
     margin-top: -10px;
@@ -12337,6 +12858,66 @@ textarea.form-control-lg {
   }
 }
 @media only screen and (min-width: 360px) {
+  .navbar-two {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 105px;
+    font-size: 25px;
+  }
+  .text-twentyone {
+    position: absolute;
+    top: 400px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 330px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-twenty {
+    position: absolute;
+    top: 300px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 330px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-nineteen {
+    position: absolute;
+    top: 200px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 330px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .text-eighteen {
+    position: absolute;
+    top: 100px;
+    color: black;
+    text-decoration-line: none;
+    background-color: white;
+    width: 330px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  .three-main {
+    width: 370px;
+    height: 600px;
+    background-color: rgba(7, 104, 4, 0.815);
+    margin-left: -12px;
+  }
   .offcanvas-title {
     margin-left: 120px;
     margin-top: -10px;
@@ -12368,10 +12949,10 @@ textarea.form-control-lg {
     width: 380px;
   }
   .two-header {
-    width: 380px;
+    width: 390px;
   }
   .two-main {
-    width: 380px;
+    width: 390px;
   }
 }
 @media only screen and (min-width: 380px) {
@@ -12398,6 +12979,7 @@ textarea.form-control-lg {
   }
   .site-main {
     width: 400px;
+    margin-left: -20px;
   }
   .two-main {
     width: 400px;
