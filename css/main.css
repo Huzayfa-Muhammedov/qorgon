@@ -13101,14 +13101,14 @@ textarea.form-control-lg {
   }
   .text-twentyone {
     position: absolute;
-    top: 400px;
+    top: 380px;
     color: black;
     text-decoration-line: none;
     background-color: white;
     width: 360px;
     padding: 8px;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 5px;
   }
   .text-twenty {
@@ -13120,7 +13120,7 @@ textarea.form-control-lg {
     width: 360px;
     padding: 8px;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 5px;
   }
   .text-nineteen {
@@ -13132,7 +13132,7 @@ textarea.form-control-lg {
     width: 360px;
     padding: 8px;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 5px;
   }
   .text-eighteen {
@@ -13144,14 +13144,14 @@ textarea.form-control-lg {
     width: 360px;
     padding: 8px;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 5px;
   }
   .three-main {
     width: 400px;
     height: 1000px;
     background-color: rgba(7, 104, 4, 0.815);
-    margin-left: -12px;
+    margin-left: -20px;
   }
   .offcanvas-title {
     margin-left: 130px;
